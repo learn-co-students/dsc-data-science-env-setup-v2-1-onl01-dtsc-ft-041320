@@ -10,7 +10,7 @@ In this lesson, you'll continue setting up your professional data science enviro
 You will be able to:
 * Use basic commands to navigate the command line
 * Summarize why virtual environments are used
-* Use a virtual environment
+* Use a virtual environment 
 
 ## Cloning this Repository
 
